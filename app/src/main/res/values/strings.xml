@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleTabletVersion</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="begin">Begin</string>
+    <string name="finish">Finish</string>
+</resources>
